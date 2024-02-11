@@ -1,4 +1,4 @@
-<h1 align ="centre">Adityan Karan</h1>
+<h1 align ="centre">Geddy Ric</h1>
 
 
 ## Contact
