@@ -3,7 +3,6 @@
 
 ## Contact
 
-- [GitHub Issues](https://github.com/savvydarknight/cictehro.com/issues)
 - [![Email Badge](https://img.shields.io/badge/Email%20Us-brown?style=for-the-badge&logo=gmail&logoColor=green)](mailto:ctronics.aid@gmail.com)
 - [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/icburg_x/)
 - [![WhatsApp Badge](https://img.shields.io/badge/Contact%20Cictehro-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254104166980)
