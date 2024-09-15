@@ -7,8 +7,8 @@
 ##
 ##
 ##
-Brand ambassador
-![](https://aleen42.github.io/badges/src/bugatti.svg)(https://bugatti.com)
+[![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg)](https://bugatti.com)
+
 ##
 - ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) (BTC): `372e7LpQp3UPweSX7GNHfiNzrm3WvWTUmN`
 - [Paxful](https://paxful.com/register?r=KmdA11VGrdV) - Buy cryptocurrencies easily.
