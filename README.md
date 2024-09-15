@@ -12,7 +12,7 @@
 ##
 ##
 ## Nibuyie coffee ☕ 😹🗿
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com](https://buymeacoffee.com/adityankaran
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee.com](https://buymeacoffee.com/adityankaran)
 ))
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com)
 [![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com)
