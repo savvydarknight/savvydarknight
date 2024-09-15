@@ -10,8 +10,9 @@
 
 - ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white) (BTC): `372e7LpQp3UPweSX7GNHfiNzrm3WvWTUmN`
 - [Paxful](https://paxful.com/register?r=KmdA11VGrdV) - Buy cryptocurrencies easily.
-<br/>
-## Nibuyie coffee ☕ 😹🗿 <br/>
+##
+##
+## Nibuyie coffee ☕ 😹🗿
 ![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 ![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 ![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
