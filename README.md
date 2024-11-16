@@ -1,6 +1,3 @@
-<h1 align ="centre">Geddy Ric</h1>
-
-
 ## Contact
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/@ricgeddy)
