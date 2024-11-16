@@ -3,7 +3,7 @@
 
 ## Contact
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gr_cictehro?igsh=dGJlM3VzYnlzNmJ6) [![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/@ricgeddy)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/@ricgeddy)
 ##
 ## Brand ambassador for [![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg)](https://bugatti.com)🌚
 ##
