@@ -2,8 +2,8 @@
 
 Feel free to reach out for collaborations, project discussions, or just a friendly hello!
 
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://bit.ly/cxIys)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/dean](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxoIWzQErQPCvNlC1U5aYdw%3D%3D))
+[![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ctronics.aid@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geddy-ric-121aa3338?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGXjuBAc%2FRkyWHNwoDsB6xg%3D%3D)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-3CB371?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/bixly)
 ## Brand ambassador for [![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg)](https://bugatti.com)🌚<br><br>
 
